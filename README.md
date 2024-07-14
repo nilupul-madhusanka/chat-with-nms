@@ -1,2 +1,2 @@
-# chat-with-nms
-Chatting each other using local network
+# Chat With Nms
+- Chatting each other using local network
